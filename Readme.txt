@@ -19,5 +19,5 @@ Username: admin
 Password: Test@123
 
 Credential for Client panel :
-Username: client@gmail.com
+Username: vishwajeeva2708@gmail.com
 Password: Test@123
